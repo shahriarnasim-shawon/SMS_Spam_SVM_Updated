@@ -43,7 +43,7 @@ The original base code has been updated with several best-practice machine learn
 ### Option 2: Run Locally
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+   git clone https://github.com/shahriarnasim-shawon/SMS_Spam_SVM_Updated
 Navigate to the project directory:
 code
 Bash
